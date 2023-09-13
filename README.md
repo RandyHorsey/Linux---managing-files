@@ -1,7 +1,7 @@
-<h1>Manging files</h1>
+<h1>Linux - Manging Files</h1>
 
 <h2>Description</h2>
-Using Linux commands to modify a directory structure and the files it contains. Alos, I used the nano text editor to add text to a file.
+Using Linux commands to modify a directory structure and the files it contains. Also, I used the nano text editor to add text to a file.
 <br />
 
 <h2>Linux commands</h2>
@@ -18,13 +18,16 @@ Using Linux commands to modify a directory structure and the files it contains. 
 
  <h4>
 Created a new directory: </h4>
-<img src="https://imgur.com/nqY8U9l.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/JPRf0oY.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Removed a directory:  </h4>
-<img src="https://imgur.com/X2csTMT.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/xsnnHvw.png" height="65%" width="65%" alt="Security Audit"/>
 <h4>Moved a file:  </h4>
-<img src="https://imgur.com/VyfxXkE.png" height="65%" width="65%" alt="Security Audit"/>
-Removed a file:  </h4>
-<img src="https://imgur.com/X2csTMT.png" height="65%" width="65%" alt="Security Audit"/>
-Created a new file:  </h4>
-<img src="https://imgur.com/X2csTMT.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/EPohq9j.png" height="65%" width="65%" alt="Security Audit"/>
+<h4>Removed a file:  </h4>
+<img src="https://imgur.com/22dxRgd.png" height="65%" width="65%" alt="Security Audit"/>
+<h4>Created a new file:  </h4>
+<img src="https://imgur.com/G4OvPpA.png" height="65%" width="65%" alt="Security Audit"/>
+<h4>Added text to a file in nano text editor:  </h4>
+<img src="https://imgur.com/qTqZ69R.png" height="65%" width="65%" alt="Security Audit"/>
+
