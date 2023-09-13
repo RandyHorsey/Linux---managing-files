@@ -14,7 +14,7 @@ Using Linux commands to modify a directory structure and the files it contains. 
 - <b>cp</b>
 - <b>nano</b>
 
-<h2>Documents:</h2>
+<h2>Examples:</h2>
 
  <h4>
 Created a new directory: </h4>
