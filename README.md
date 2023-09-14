@@ -1,4 +1,4 @@
-<h1>Linux - Manging Files</h1>
+<h1>Linux - managing files</h1>
 
 <h2>Description</h2>
 Using Linux commands to modify a directory structure and the files it contains. Also, I used the nano text editor to add text to a file.
